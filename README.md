@@ -136,4 +136,4 @@ python main.py
 
 ## Referințe
 
--[Object Tracking with Opencv and Python](https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/)
+- [Object Tracking with Opencv and Python](https://pysource.com/2021/01/28/object-tracking-with-opencv-and-python/)
