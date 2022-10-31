@@ -1,5 +1,15 @@
 # FishTracker
 
+_Universitatea "Dunărea de Jos" Galați_
+
+_Facultatea de Automatică, Calculatoare, Inginerie Electrică și Electronică_
+
+_Autor: Iordăchescu Cristian Ștefan_
+
+_Grupa: 22C23_
+
+_Profesor coordonator: Lector Simona Moldovanu_
+
 FishTracker este o simplă aplicație de detectare a unor pești într-un acvariu pe baza unui clip video
 
 ## Instalare
