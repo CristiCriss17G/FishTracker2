@@ -1,6 +1,6 @@
 # FishTracker
 
-FishTracker este o simplă aplicație de detectare a într-un acvariu pe baza unui clip video
+FishTracker este o simplă aplicație de detectare a unor pești într-un acvariu pe baza unui clip video
 
 ## Instalare
 
@@ -30,13 +30,13 @@ python main.py
 
 ## Descriere
 
-1. Se importa librariile necesare
+1. Se importa librăriile necesare
 
    ```python
    import cv2
    ```
 
-2. Se importa clasa ajutătoare pentru urmărirea de obiecte și se initializează obiectul
+2. Se importa clasa ajutătoare pentru urmărirea de obiecte și se inițializează  obiectul
 
    ```python
    from tracker import *
@@ -71,7 +71,7 @@ python main.py
    roi = frame[5: 715, 50: 1200]
    ```
 
-6. Se aplică separarea de fundal și se curață fundalul prin binarizare
+6. Se aplică separarea de fundal și se curăță fundalul prin binarizare
 
    ```python
    mask = object_detector.apply(roi)
