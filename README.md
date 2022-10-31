@@ -8,7 +8,7 @@ Pentru a instala FishTracker, trebuie să aveți instalat Python 3.7 sau mai nou
 
 ```powershell
 python3 -m venv .venv
-.\.venv\Scripts\activate
+.\.venv\Scripts\activate.ps1
 pip install -r requirements.txt
 ```
 
